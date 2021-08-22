@@ -1,0 +1,93 @@
+
+.testingContainer{
+    color: white;
+}
+
+.overlay{
+    background-color: #F7F7F7;
+    height: 80px;
+}
+
+.welcome{
+    font-family: "Robota", sans-serif;
+    color: black;
+    margin-left: 75px;
+    padding-top: 20px;
+}
+
+.highlight{
+    color: #167EFB;
+}
+
+.classes{
+    margin-top: 50px;
+    margin-left: 75px;
+    font-family: "Roboto", sans-serif;
+    h3{
+        color: #4D4D4D;
+        font-weight: 500;
+        margin-bottom: 15px;
+        font-size: 25px;
+    }
+    p{
+        color: #737378;
+    }
+}
+
+.divider{
+    height: 2px;
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-top: 20px;
+    background-color: #CCCCCC;
+}
+
+
+.courseContainer{
+    margin-top: 25px;
+    display: flex;
+    margin-left: 75px;
+    flex-wrap: wrap;
+}
+
+.postContainer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.searchContainer{
+    margin-left: 75px;
+    margin-top: 25px;
+    margin-right: 75px;
+    display: flex;
+    justify-content: center;
+}
+
+.search{
+    outline: none;
+    border: none;
+    background-color: #f1f0f0;
+    height: 25px;
+    width: 200px;
+    padding: 10px;
+    font-family: "Roboto", sans-serif;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.submit{
+    width: 50%;
+}
+
+.create {
+    margin-right: 80px;
+    margin-top: 80px;
+}
+
